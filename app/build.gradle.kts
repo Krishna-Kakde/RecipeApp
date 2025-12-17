@@ -43,6 +43,8 @@ android {
 
 dependencies {
 
+// Navigation
+    implementation("androidx.navigation:navigation-compose:2.9.6")
 
 // ViewModel for Compose
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
